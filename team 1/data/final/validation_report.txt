@@ -1,0 +1,23 @@
+NHA Package Database Validation Report
+======================================
+VERIFIED
+Total specialties: 239
+Total packages: 1433
+Total procedures: 2415
+Total diagnoses: 0
+Total diagnosis package mappings: 0
+Total eligibility rules: 78
+Total preauthorization rules: 1433
+Total investigations: 0
+Total supporting documents: 0
+Duplicate package-code groups: 300
+Duplicate procedure-code groups: 454
+Missing package names: 0
+Invalid foreign keys: 0
+Repeated procedure-code groups: 454
+REQUIRES_REVIEW
+Unverified diagnosis mappings: 0
+Records requiring manual review:
+- Package preauthorization status is unknown unless separately curated.
+- Investigation and supporting-document mappings are not inferred.
+- Duplicate or cross-context codes require source review.

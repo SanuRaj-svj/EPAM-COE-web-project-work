@@ -1,0 +1,18 @@
+VERIFIED: Total specialties: 239
+VERIFIED: Total packages: 1433
+VERIFIED: Total procedures: 2415
+VERIFIED: Total diagnoses: 0
+VERIFIED: Total diagnosis-package mappings: 0
+VERIFIED: Packages with verified eligibility: 43
+UNKNOWN: Packages with unknown eligibility: 1390
+VERIFIED: Packages with verified preauthorization: 0
+UNKNOWN: Packages with unknown preauthorization: 1433
+VERIFIED: Packages with verified investigations: 0
+VERIFIED: Packages with no verified investigations: 1433
+VERIFIED: Packages with verified supporting documents: 0
+VERIFIED: Packages with no verified supporting documents: 1433
+REQUIRES_REVIEW: Repeated procedure-code groups: 454
+REQUIRES_REVIEW: Repeated groups reviewed: 0
+REQUIRES_REVIEW: Repeated groups pending: 454
+VERIFIED: ICD mappings verified: 0
+REQUIRES_REVIEW: ICD mappings pending: 0

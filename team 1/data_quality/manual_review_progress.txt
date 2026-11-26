@@ -1,0 +1,26 @@
+NHA Manual Review Progress
+==========================
+Procedure-code review:
+Total: 454
+Reviewed: 194
+Approved: 0
+Rejected: 0
+Requires review: 4
+Pending: 256
+
+Preauthorization:
+Total: 1433
+Verified: 0
+Pending: 1433
+
+Investigations:
+Verified: 0
+Pending: 143
+
+Documents:
+Verified: 0
+Pending: 1433
+
+ICD-10:
+Verified: 0
+Pending: 0
